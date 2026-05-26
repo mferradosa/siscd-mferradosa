@@ -1,3 +1,4 @@
 siscd
 Sistemes Informatics de Suport
 mferradosa
+mferradosa@siscd.es
